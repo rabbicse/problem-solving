@@ -7,7 +7,7 @@ func left(i int) int {
 }
 
 func right(i int) int {
-	return 2*i + 1
+	return 2*i + 2
 }
 
 func maxHepify(heap []int, n int, i int) {
@@ -26,25 +26,39 @@ func maxHepify(heap []int, n int, i int) {
 	if largest != i {
 		heap[i], heap[largest] = heap[largest], heap[i]
 
-		maxHepify(heap, n-1, i)
+		maxHepify(heap, n, largest)
 	}
 }
 
 func buildHeap(heap []int, n int) {
-	for i := n/2 - 1; i >= 0; i-- {
+	for i := (n / 2) - 1; i >= 0; i-- {
 		maxHepify(heap, n, i)
 	}
 }
 
 func heapSort(heap []int) {
 	n := len(heap)
-	for i := n - 1; i > 0; i-- {
+	buildHeap(heap, n)
 
+	for i := n - 1; i > 0; i-- {
+		heap[i], heap[0] = heap[0], heap[i]
+		maxHepify(heap, i, 0)
 	}
 }
 
-func main() {
-	heap := []int{5, 3}
+func print(heap []int) {
+	for i := 0; i < len(heap); i++ {
+		fmt.Print(heap[i])
+		fmt.Print(" ")
+	}
 
-	fmt.Println("Hello")
+	fmt.Println()
+}
+
+func main() {
+	heap := []int{19, 7, 17, 3, 5, 12, 10, 1, 2}
+
+	heapSort(heap)
+
+	print(heap)
 }
