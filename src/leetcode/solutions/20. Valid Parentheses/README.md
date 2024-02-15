@@ -29,6 +29,6 @@ s consists of parentheses only '()[]{}'.
 
 ## Solution
 #### **Time Complexity:** O(n)
-#### **Space Complexity:**O(n)
+#### **Space Complexity:** O(n)
 Solutions in different languages.
 - [Python](https://github.com/rabbicse/problem-solving/blob/master/src/leetcode/solutions/20.%20Valid%20Parentheses/solution.py)
