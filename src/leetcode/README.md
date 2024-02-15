@@ -3,7 +3,7 @@
 ## Grind 91 questions
 ### Week 1
 - [1. Two Sum](https://leetcode.com/problems/two-sum/description/) => [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/solutions/1.%20Two%20Sum)
-- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) => [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/solutions/20.%20Valid%20Parentheses)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
