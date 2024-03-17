@@ -20,3 +20,5 @@
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence)
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/896.%20Monotonic%20Array) 
+- [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/13.%20Roman%20to%20Integer)
