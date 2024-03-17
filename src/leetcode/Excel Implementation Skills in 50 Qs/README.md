@@ -16,3 +16,7 @@
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/66.%20Plus%20One)     
 - [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1822.%20Sign%20of%20the%20Product%20of%20an%20Array)
+- [1502. Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/description/)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1502.%20Can%20Make%20Arithmetic%20Progression%20From%20Sequence)
+- [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/896.%20Monotonic%20Array) 
