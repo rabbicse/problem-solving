@@ -31,4 +31,6 @@
 - [657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/description/?envType=study-plan-v2&envId=programming-skills)
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/657.%20Robot%20Return%20to%20Origin)
 - [1275. Find Winner on a Tic Tac Toe Game](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/description/?envType=study-plan-v2&envId=programming-skills)
-  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game) 
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1275.%20Find%20Winner%20on%20a%20Tic%20Tac%20Toe%20Game)
+- [1041. Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/description/?envType=study-plan-v2&envId=programming-skills)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1041.%20Robot%20Bounded%20In%20Circle) 
