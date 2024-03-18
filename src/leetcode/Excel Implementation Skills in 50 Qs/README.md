@@ -37,6 +37,7 @@
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/description/?envType=study-plan-v2&envId=programming-skills)
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1672.%20Richest%20Customer%20Wealth)
 - [1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/description/?envType=study-plan-v2&envId=programming-skills)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/1572.%20Matrix%20Diagonal%20Sum)
 - [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/?envType=study-plan-v2&envId=programming-skills)
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/54.%20Spiral%20Matrix)
 - [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/description/?envType=study-plan-v2&envId=programming-skills)
