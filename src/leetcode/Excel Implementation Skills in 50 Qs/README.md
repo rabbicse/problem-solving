@@ -66,3 +66,7 @@
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/2.%20Add%20Two%20Numbers)
 - [445. Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/?envType=study-plan-v2&envId=programming-skills)
   - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/445.%20Add%20Two%20Numbers%20II)
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=programming-skills)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/104.%20Maximum%20Depth%20of%20Binary%20Tree)
+- [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/description/?envType=study-plan-v2&envId=programming-skills)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/111.%20Minimum%20Depth%20of%20Binary%20Tree)  
