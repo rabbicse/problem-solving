@@ -86,3 +86,5 @@
   - [solution]()
 - [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/?envType=study-plan-v2&envId=programming-skills)
   - [solution]()
+- [859. Buddy Strings](https://leetcode.com/problems/buddy-strings/description/?envType=study-plan-v2&envId=programming-skills)
+  - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Excel%20Implementation%20Skills%20in%2050%20Qs/solutions/859.%20Buddy%20Strings)
