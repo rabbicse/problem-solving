@@ -1,7 +1,7 @@
 # Grind 75
 ## Problems and Solutions
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
-    - [solution]()
+    - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Grind%2075/solutions/1.%20Two%20Sum)
 - [2. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
     - [solution]()
 - [3. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
