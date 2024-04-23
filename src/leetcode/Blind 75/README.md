@@ -5,7 +5,7 @@
 - [2. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
     - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Blind%2075/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 - [3. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-    - [solution]()
+    - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Blind%2075/solutions/5.%20Longest%20Palindromic%20Substring)
 - [4. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
     - [solution]()
 - [5. 3Sum](https://leetcode.com/problems/3sum/)
