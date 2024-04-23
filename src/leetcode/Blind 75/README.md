@@ -3,7 +3,7 @@
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
     - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Blind%2075/solutions/1.%20Two%20Sum)
 - [2. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-    - [solution]()
+    - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Blind%2075/solutions/3.%20Longest%20Substring%20Without%20Repeating%20Characters)
 - [3. Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
     - [solution]()
 - [4. Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
