@@ -35,7 +35,7 @@
 - [17. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
     - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Blind%2075/solutions/56.%20Merge%20Intervals)
 - [18. Insert Interval](https://leetcode.com/problems/insert-interval/)
-    - [solution]()
+    - [solution](https://github.com/rabbicse/problem-solving/tree/master/src/leetcode/Blind%2075/solutions/56.%20Merge%20Intervals/57.%20Insert%20Interval)
 - [19. Unique Paths](https://leetcode.com/problems/unique-paths/)
     - [solution]()
 - [20. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
